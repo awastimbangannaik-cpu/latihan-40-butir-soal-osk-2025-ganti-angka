@@ -1,0 +1,6 @@
+{
+  "name": "OLIMPIADE FISIKA KOTA 2025 – MISTER JO",
+  "description": "Aplikasi latihan interaktif Olimpiade Sains Fisika tingkat Kota/Kabupaten 2025 oleh Pembina Olimpiade Fisika Mister Jo, lengkap dengan stimulus visual, isian numerik presisi, pembahasan sistematis, FBD akurat, dan narator suara bahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
